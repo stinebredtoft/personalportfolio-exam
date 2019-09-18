@@ -1,0 +1,53 @@
+/*
+ Theme Name:   Ocean WP Child
+ Theme URI:    https://wordpress.org/themes/oceanwp/
+ Description:  Ocean WP Child Theme
+ Author:       Stine Bredtoft
+ Author URI:   http://example.com
+ Template:     oceanwp
+ Version:      1.7.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         two-columns, right-sidebar, footer-widgets, blog, news, custom-background, custom-menu, post-formats, rtl-language-support, sticky-post, editor-style, threaded-comments, translation-ready, buddypress, custom-colors, featured-images, full-width-template, theme-options, e-commerce
+ Text Domain:  oceanwpchild
+*/
+
+.elementor-43 .elementor-element.elementor-element-55fcc15.elementor-widget-heading .elementor-heading-title:hover {color: #f7d18f;}
+
+.elementor-43 .elementor-element.elementor-element-b7a103d.elementor-widget-heading .elementor-heading-title:hover {color: #f7d18f;}
+
+.elementor-43 .elementor-element.elementor-element-68389df.elementor-widget-heading .elementor-heading-title:hover {color: #f7d18f;}
+
+.elementor-43 .elementor-element.elementor-element-904f9c3.elementor-widget-heading .elementor-heading-title:hover {color: #f7d18f;}
+
+/*snippet: https://travis.media/how-to-make-an-item-grow-on-hover-with-css */
+
+.elementor-button .elementor-button-text { 
+transition: all .2s ease-in-out; 
+}
+ 
+.elementor-button .elementor-button-text:hover { 
+transform: scale(1.1); 
+}
+ 
+
+
+/*
+.streger {
+
+stroke-dashoffset: 250;
+stroke-dasharray: 250;
+animation: optegning 5s linear;
+
+}
+
+
+
+@keyframes optegning {	
+	to {
+	stroke-dasharray: 0;
+	}
+}*/
+
+
+
