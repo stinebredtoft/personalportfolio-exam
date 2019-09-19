@@ -31,7 +31,7 @@ transform: scale(1.1);
 }
  
 /*Styling af knappen i contact-form*/
-input[type="button"], input[type="reset"], input[type="submit"], button[type="submit"], .button, body div.wpforms-container-full .wpforms-form input[type=submit], body div.wpforms-container-full .wpforms-form button[type=submit], body div.wpforms-container-full .wpforms-form .wpforms-page-button {background-color: #1f5f60 !important;}
+input[type="button"], input[type="reset"], input[type="submit"], button[type="submit"], .button, body div.wpforms-container-full .wpforms-form input[type=submit], body div.wpforms-container-full .wpforms-form button[type=submit], body div.wpforms-container-full .wpforms-form .wpforms-page-button {background-color: #f7d18f !important;}
 
 /*
 .streger {
